@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    box-sizing: border-box;
+    
+    color: #F6CAC0;
+    font-family: "Brush Script MT";
+    font-size: 5.2rem;
+    margin-bottom: 50px;
+    padding-top: 55px;
+    text-align: center;
+}
+
+
+div.design{
+    background-color: #9c2007e4;
+    padding-top: 94px;
+    margin-bottom: -96px;
+}
+
+
+a {
+    display: block;
+    color: rgb(249, 213, 167);
+    text-align: center;
+    font-size: 1.2rem;
+    text-decoration: none;
+    font-family: "Comic Sans MS";
+    margin-top: 10px;
+
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 8px;
+}
+
+.soup{
+    margin-top: -2px;
+}
